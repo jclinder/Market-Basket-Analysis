@@ -1,4 +1,4 @@
-# R-SalesData-Scripts
+# R Market Basket Script
 
 The basketAnalysis.R script takes a list of transactions and looks at how often a customer who bought product X also bought product Y at any point in time. 
 
