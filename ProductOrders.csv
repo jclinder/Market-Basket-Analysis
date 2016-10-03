@@ -1,0 +1,67 @@
+Order Date,Order ID,Product,Shipped Date,Customer,Quantity,Unit Price,Discount,Transaction,Status
+20-Nov-10,1,Coffee,20-Dec-10,Company U,5,$46.00 ,0.00%,Sale,Invoiced
+20-Nov-10,1,Crab Meat,20-Dec-10,Company U,8,$18.40 ,0.00%,Sale,Invoiced
+20-Nov-10,1,Almonds,20-Dec-10,Company U,10,$10.00 ,0.00%,Sale,Invoiced
+25-Nov-10,2,Marmalade,30-Nov-10,Company N,5,$81.00 ,0.00%,Sale,Invoiced
+25-Nov-10,2,Walnuts,30-Nov-10,Company N,10,$23.25 ,0.00%,Sale,Invoiced
+10-Dec-10,3,Fruit Cocktail,16-Dec-10,Company O,5,$39.00 ,0.00%,Sale,Shipped
+10-Dec-10,3,Chocolate,16-Dec-10,Company O,15,$12.75 ,0.00%,Sale,Shipped
+10-Dec-10,3,Almonds,16-Dec-10,Company O,20,$10.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Boysenberry Spread,21-Dec-10,Company T,5,$25.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Fruit Cocktail,21-Dec-10,Company T,5,$39.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Crab Meat,21-Dec-10,Company T,15,$18.40 ,0.00%,Sale,Shipped
+20-Dec-10,5,Syrup,,Company A,15,$10.00 ,0.00%,Sale,None
+20-Dec-10,5,Chocolate Biscuits Mix,,Company A,20,$9.20 ,0.00%,Sale,None
+21-Dec-10,6,Chicken Soup,23-Dec-10,Company D,50,$1.95 ,0.00%,Sale,Invoiced
+21-Dec-10,6,Chai,23-Dec-10,Company D,75,$1.00 ,0.00%,Sale,Invoiced
+22-Dec-10,7,Chocolate,,Company A,25,$12.75 ,0.00%,Sale,None
+22-Dec-10,7,Coffee,,Company A,25,$46.00 ,0.00%,Sale,None
+20-Nov-10,1,Coffee,20-Dec-10,Company C,5,$46.00 ,0.00%,Sale,Invoiced
+20-Nov-10,1,Crab Meat,20-Dec-10,Company F,8,$18.40 ,0.00%,Sale,Invoiced
+20-Nov-10,1,Almonds,20-Dec-10,Company C,10,$10.00 ,0.00%,Sale,Invoiced
+25-Nov-10,2,Marmalade,30-Nov-10,Company V,5,$81.00 ,0.00%,Sale,Invoiced
+25-Nov-10,2,Walnuts,30-Nov-10,Company V,10,$23.25 ,0.00%,Sale,Invoiced
+10-Dec-10,3,Fruit Cocktail,16-Dec-10,Company M,5,$39.00 ,0.00%,Sale,Shipped
+10-Dec-10,3,Chocolate,16-Dec-10,Company M,15,$12.75 ,0.00%,Sale,Shipped
+10-Dec-10,3,Almonds,16-Dec-10,Company M,20,$10.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Boysenberry Spread,21-Dec-10,Company Y,5,$25.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Fruit Cocktail,21-Dec-10,Company Y,5,$39.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Crab Meat,21-Dec-10,,15,$18.40 ,0.00%,Sale,Shipped
+20-Dec-10,5,Syrup,,Company W,15,$10.00 ,0.00%,Sale,None
+20-Dec-10,5,Chocolate Biscuits Mix,,Company F,20,$9.20 ,0.00%,Sale,None
+21-Dec-10,6,Chicken Soup,23-Dec-10,Company D,50,$1.95 ,0.00%,Sale,Invoiced
+21-Dec-10,6,Chai,23-Dec-10,Company Y,75,$1.00 ,0.00%,Sale,Invoiced
+22-Dec-10,7,Chocolate,,Company W,25,$12.75 ,0.00%,Sale,None
+22-Dec-10,7,Coffee,,Company D,25,$46.00 ,0.00%,Sale,None
+22-Dec-10,7,Coffee,,CompanyR,25,$46.00 ,0.00%,Sale,None
+20-Nov-10,1,Coffee,20-Dec-10,Company R,5,$46.00 ,0.00%,Sale,Invoiced
+20-Nov-10,1,Crab Meat,20-Dec-10,Company Q,8,$18.40 ,0.00%,Sale,Invoiced
+20-Nov-10,1,Almonds,20-Dec-10,Company Q,10,$10.00 ,0.00%,Sale,Invoiced
+25-Nov-10,2,Marmalade,30-Nov-10,Company K,5,$81.00 ,0.00%,Sale,Invoiced
+25-Nov-10,2,Walnuts,30-Nov-10,Company K,10,$23.25 ,0.00%,Sale,Invoiced
+10-Dec-10,3,Fruit Cocktail,16-Dec-10,Company K,5,$39.00 ,0.00%,Sale,Shipped
+10-Dec-10,3,Chocolate,16-Dec-10,Company L,15,$12.75 ,0.00%,Sale,Shipped
+10-Dec-10,3,Almonds,16-Dec-10,Company L,20,$10.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Boysenberry Spread,21-Dec-10,Company P,5,$25.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Fruit Cocktail,21-Dec-10,Company P,5,$39.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Crab Meat,21-Dec-10,Company P,15,$18.40 ,0.00%,Sale,Shipped
+20-Dec-10,5,Syrup,,Company W,15,$10.00 ,0.00%,Sale,None
+20-Dec-10,5,Chocolate Biscuits Mix,,Company D,20,$9.20 ,0.00%,Sale,None
+21-Dec-10,6,Chicken Soup,23-Dec-10,Company D,50,$1.95 ,0.00%,Sale,Invoiced
+21-Dec-10,6,Chai,23-Dec-10,Company L,75,$1.00 ,0.00%,Sale,Invoiced
+22-Dec-10,7,Chocolate,,Company L,25,$12.75 ,0.00%,Sale,None
+22-Dec-10,7,Coffee,,Company U,25,$46.00 ,0.00%,Sale,None
+10-Dec-10,3,Fruit Cocktail,16-Dec-10,Company S,5,$39.00 ,0.00%,Sale,Shipped
+10-Dec-10,3,Chocolate,16-Dec-10,Company G,15,$12.75 ,0.00%,Sale,Shipped
+10-Dec-10,3,Almonds,16-Dec-10,Company H,20,$10.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Boysenberry Spread,21-Dec-10,Company X,5,$25.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Fruit Cocktail,21-Dec-10,Company L,5,$39.00 ,0.00%,Sale,Shipped
+15-Dec-10,4,Crab Meat,21-Dec-10,Company E,15,$18.40 ,0.00%,Sale,Shipped
+20-Dec-10,5,Syrup,,Company B,15,$10.00 ,0.00%,Sale,None
+20-Dec-10,5,Chocolate Biscuits Mix,,Company Q,20,$9.20 ,0.00%,Sale,None
+21-Dec-10,6,Chicken Soup,23-Dec-10,Company L,50,$1.95 ,0.00%,Sale,Invoiced
+21-Dec-10,6,Chai,23-Dec-10,Company J,75,$1.00 ,0.00%,Sale,Invoiced
+22-Dec-10,7,Chocolate,,CompanyJ,25,$12.75 ,0.00%,Sale,None
+22-Dec-10,7,Coffee,,Company U,25,$46.00 ,0.00%,Sale,None
+22-Dec-10,7,Coffee,,Company I,25,$46.00 ,0.00%,Sale,None
+20-Nov-10,1,Coffee,20-Dec-10,Company I,5,$46.00 ,0.00%,Sale,Invoiced
